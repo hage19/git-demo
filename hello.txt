@@ -5,3 +5,5 @@ new hello.txt file
 4 st commit
 5 st commit
 6 st 1 dev commit 
+
+7 st by tom
