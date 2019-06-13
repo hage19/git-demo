@@ -6,3 +6,4 @@ new hello.txt file
 5 st commit
 6 st 1 dev commit 
 7 st by tom
+7 st edit by remote
