@@ -1,17 +1,5 @@
 new hello.txt file
-
 1 st commit
-
-
-
 2 st commit
-
-
-
 3 st commit
-
-
-
 4 st commit
-
-
